@@ -2,7 +2,7 @@
                                  CREDITS    
 
 This file lists all people who have contributed to Nanvix. It is sorted by 
-name and it is formated as follows: name (N), email (E), web-address (w) and 
+name and it is formated as follows: name (N), email (E), web-address (W) and 
 description (D).
 
 Thank you,
@@ -10,6 +10,10 @@ Thank you,
 Pedro H. Penna
 
 ======================
+
+N: Antoine Saget
+E: antoinesaget19@gmail.com
+D: Student at UGA, Polytech Grenoble
 
 N: Clement Rouquier
 E: clementrouquier@gmail.com
